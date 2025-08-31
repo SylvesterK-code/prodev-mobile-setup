@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6a4fe2c801241193e74a4790f1350764dca833f
 import { View, Text, StyleSheet } from "react-native";
 
 export default function Index() {
