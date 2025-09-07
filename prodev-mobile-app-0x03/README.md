@@ -71,6 +71,11 @@ Join our community of developers creating universal apps.
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c201f0a0fc81349f7d479fdc244ff4f9da0337ee
 1. Create Your First Mobile App
 mandatory
 Objective:
