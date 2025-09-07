@@ -1,5 +1,5 @@
 import { Text, TextInput, View, TouchableOpacity, Image } from "react-native";
-import { styles } from "@/styles/signin";
+import { styles } from "@/styles/join";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
 
